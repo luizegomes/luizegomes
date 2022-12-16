@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, sou Luize!
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Visualizações de perfil" /> </p>
+
+
 
 <!--
 **luizegomes/luizegomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
