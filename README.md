@@ -4,6 +4,8 @@
 <p> :woman_technologist: Atualmente estou estudando React. Além do conhecimentoo em HTML, CSS e JavaScript.</p> 
 <br> 
 
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizegomes&theme=omni&hide_border=false&&layout=compact"/>
+
 ## 🛠  Tech Stack
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
