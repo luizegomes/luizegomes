@@ -1,5 +1,5 @@
-<h1> Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, sou Luize Gomes.</h1>
-<p> Tenho 31 anos, estou em transição de carreira para a área da Tecnologia.</p>
+<h1> Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, sou Luize Bernardo.</h1>
+<p> Tenho 32 anos, estou em transição de carreira para a área da Tecnologia.</p>
 <p> :computer: Me identifiquei com o Front-end e desde então venho me dedicando ao aprendizado diário. </p>   
 <p> :woman_technologist: Atualmente estou estudando React. Além do conhecimentoo em HTML, CSS e JavaScript.</p> 
 <br> 
