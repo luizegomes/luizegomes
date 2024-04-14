@@ -1,16 +1,13 @@
-<h1> Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, sou Luize Bernardo.</h1>
-<p> Tenho 32 anos, estou em transição de carreira para a área da Tecnologia.</p>
-<p> :computer: Me identifiquei com o Front-end e desde então venho me dedicando ao aprendizado diário. </p>   
-<p> :woman_technologist: Atualmente estou estudando React. Além do conhecimentoo em HTML, CSS e JavaScript.</p> 
+<h1> Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, sou Luize Gomes.</h1>
+<p> Tenho 32 anos, sou estudante no curso Técnico em Desenvolvimento de Sistemas na ETEC.</p>   
+<p> :woman_technologist: Atualmente estudo a linguagem de programação Java. Mas também tenho conhecimento básico em HTML, CSS e JavaScript.</p> 
 <br> 
 
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizegomes&theme=omni&hide_border=false&&layout=compact"/>
 
 ## 🛠  Tech Stack
 
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-![Reagir](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git) 
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
