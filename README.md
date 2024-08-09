@@ -1,5 +1,5 @@
 <h1> Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, sou Luize Gomes.</h1>
-<p> Tenho 32 anos, sou estudante no curso Técnico em Desenvolvimento de Sistemas na ETEC.</p>   
+<p> Tenho 33 anos, sou estudante no curso Técnico em Desenvolvimento de Sistemas na ETEC.</p>   
 <p> :woman_technologist: Atualmente estudo a linguagem de programação Java. Mas também tenho conhecimento básico em HTML, CSS e JavaScript.</p> 
 <br> 
 
