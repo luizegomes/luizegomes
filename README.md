@@ -1,6 +1,5 @@
-<h1> Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, sou Luize Gomes.</h1>
-<p> Tenho 33 anos, sou formada no curso Técnico em Desenvolvimento de Sistemas na ETEC.</p>   
-<p> :woman_technologist: Atualmente estudo a linguagem de programação Java. Mas também tenho conhecimento básico em HTML, CSS e JavaScript.</p> 
+<h1> Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, sou Luize Gomes.</h1>  
+<p> :woman_technologist: Tenho 34 anos, profissional em transição de carreira para a área de tecnologia, com formação técnica em Desenvolvimento de Sistemas (ETEC) e superior em Processos Gerenciais (IBGM). Tenho interesse especial em desenvolvimento backend com Java, linguagem na qual venho me especializando. Possuo conhecimentos em HTML, CSS, JavaScript, MySQL e Java. Busco minha primeira oportunidade como Desenvolvedora Java Júnior, aliando minha experiência administrativa a uma nova jornada na tecnologia.</p> 
 <br> 
 
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizegomes&theme=omni&hide_border=false&&layout=compact"/>
